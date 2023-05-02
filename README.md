@@ -21,4 +21,5 @@ The results of the analysis are presented in a clear and concise manner, includi
 ## 🎉 Conclusion:
 This project demonstrates the use of web and social media analytics to extract insights and identify patterns from large datasets. By analyzing the sentiment of reviews and social media data, companies can gain valuable insights into their competitors and the preferences of their users, leading to the development of effective marketing strategies and optimal product development.
 
-🙌 Thanks for checking out my project! 🙌
+
+#### 🙌 Thanks for checking out my project! 🙌
